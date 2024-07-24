@@ -1,0 +1,25 @@
+.google-keep {
+  text-align: center;
+  margin: auto;
+  background: #fff;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  padding: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.google-keep iframe {
+  border: none;
+}
+
+.google-keep-controls a {
+  display: block;
+  margin-top: 10px;
+  color: #fbbc05;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.google-keep-controls a:hover {
+  text-decoration: underline;
+}

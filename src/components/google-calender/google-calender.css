@@ -1,0 +1,23 @@
+.custom-calendar {
+  max-width: 280px;
+  margin: auto;
+}
+
+.calendar-tile {
+  border-radius: 50%;
+}
+
+.calendar-controls {
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.calendar-controls a {
+  color: #c2301d;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.calendar-controls a:hover {
+  text-decoration: underline;
+}
